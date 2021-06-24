@@ -1,2 +1,2 @@
-# py
-Python beginner
+# python files
+This repo includes python files from beginner to intermediate 
